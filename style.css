@@ -1,0 +1,11 @@
+.column {
+    float: left;
+    width: 47%;
+    padding: 20px;
+    height: 300px;
+}
+.row2 {
+    clear: both;
+    color: orangered;
+    font-size: 24;
+}
